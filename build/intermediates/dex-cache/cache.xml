@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/pre-dexed/debug/classes-8a0b3bf998d73f0c6e7343da7f659f583d1c29f6.jar" />
+    </item>
+    <item
+        jar="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/pre-dexed/debug/classes-f8f5e558698ef95be001023c77fb661bddb3889e.jar" />
+    </item>
+    <item
+        jar="/Users/sukrins/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-71e907e9554e28ff244de2605b66ba9b5a5926d0.jar" />
+    </item>
+    <item
+        jar="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sukrins/AndroidStudioProjects/TemperatureConverter/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-1c181753bec89861a96aac29c9c4f2051ca4e2eb.jar" />
+    </item>
+
+</items>
